@@ -1,1 +1,1 @@
-from  tfgco/pitaya-admin
+from  jaegertracing/all-in-one
