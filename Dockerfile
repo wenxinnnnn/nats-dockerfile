@@ -1,1 +1,1 @@
-from  tfgco/pitaya-admin
+from  quay.io/coreos/etcd:v3.3.9
